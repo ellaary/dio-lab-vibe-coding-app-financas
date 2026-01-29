@@ -113,8 +113,14 @@ Como o plano gratuito limita a 5 interações por dia, foquei em perguntas diret
    - Validação inicial: testes com usuários iniciantes e diversos perfis, medindo clareza, acessibilidade e engajamento.
   
    - ## Prints e Vídeos das Interações com a IA
+Inclua aqui imagens ou pequenos vídeos mostrando:
+- Registro de gastos via chat em linguagem natural.  
+- Exemplo de categorização automática.  
+- Definição de metas financeiras.  
+- Relatórios simples e personalizados.  
+- Dicas do Agente Financeiro.  
 
-[Repositório com screenshots do app](https://github.com/ellaary/dio-lab-vibe-coding-app-financas/tree/Screenshots-app-financas)
+*(Sugestão: salve os arquivos na pasta `/media` e referencie aqui com links ou embeds, por exemplo: `![print do chat](./media/chat.png)` ou link para vídeo.)*
 
 ---
 
