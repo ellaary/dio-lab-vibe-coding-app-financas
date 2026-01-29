@@ -111,3 +111,43 @@ Como o plano gratuito limita a 5 interações por dia, foquei em perguntas diret
    - Funcionalidades principais: chat, categorização, metas, agente financeiro, relatórios.  
    - Recursos necessários: processamento de linguagem natural, sistema de categorização, autenticação de usuários, armazenamento em nuvem.  
    - Validação inicial: testes com usuários iniciantes e diversos perfis, medindo clareza, acessibilidade e engajamento.
+  
+   - ## Prints e Vídeos das Interações com a IA
+Inclua aqui imagens ou pequenos vídeos mostrando:
+- Registro de gastos via chat em linguagem natural.  
+- Exemplo de categorização automática.  
+- Definição de metas financeiras.  
+- Relatórios simples e personalizados.  
+- Dicas do Agente Financeiro.  
+
+*(Sugestão: salve os arquivos na pasta `/media` e referencie aqui com links ou embeds, por exemplo: `![print do chat](./media/chat.png)` ou link para vídeo.)*
+
+---
+
+## Resumo do App
+O **Organizador de Finanças Pessoais Conversacional** é um aplicativo que:
+- Permite registrar gastos via chat em linguagem natural.  
+- Classifica automaticamente as transações.  
+- Ajuda a definir e acompanhar metas financeiras.  
+- Oferece dicas personalizadas de economia por meio do Agente Financeiro.  
+- Gera relatórios simples e acessíveis.  
+- Foi projetado com **Design Universal**, garantindo inclusão e boa experiência para o maior número possível de usuários.
+
+---
+
+## Reflexão sobre o Processo
+
+### O que funcionou bem
+- Estruturação clara do PRD ajudou a manter o foco no problema e nas soluções.  
+- O uso da IA facilitou a revisão e expansão do documento.  
+- A abordagem conversacional trouxe simplicidade e naturalidade ao app.  
+
+### O que não funcionou como o esperado
+- Algumas respostas da IA foram genéricas e precisaram de refinamento com prompts mais específicos.  
+- O limite de interações no Lovable exigiu foco e planejamento para não desperdiçar perguntas.  
+- A definição de métricas de sucesso precisou de ajustes para serem mais objetivas.  
+
+### O que aprendi sobre conversar com IAs
+- Quanto mais claro e detalhado o prompt, melhor a resposta.  
+- É importante iterar e ajustar as perguntas para obter entregas úteis.  
+- A IA funciona como um parceiro criativo: organiza e sintetiza ideias, mas o direcionamento humano é essencial.  
