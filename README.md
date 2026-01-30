@@ -7,7 +7,7 @@ O objetivo é simplificar o controle financeiro, tornando-o acessível, inclusiv
 ---
 
 ## 2. Prompt Final Redefinido e Refinado Pelo Copilot Web (PRD)
-# PRD (Product Requirement Document) – Aplicativo de Organização de Finanças Pessoais
+## PRD (Product Requirement Document) – Aplicativo de Organização de Finanças Pessoais
 ```txt
 ## 1. Contexto
 O objetivo é criar um aplicativo de Organização de Finanças Pessoais que funcione por meio de conversas em linguagem natural.  
@@ -128,7 +128,7 @@ O **Organizador de Finanças Pessoais Conversacional** é um aplicativo que:
 - Oferece dicas personalizadas de economia por meio do Agente Financeiro.  
 - Gera relatórios simples e acessíveis.  
 - Foi projetado com **Design Universal**, garantindo inclusão e boa experiência para o maior número possível de usuários.
-
+- URL: https://financas-facil29.lovable.app/auth
 ---
 
 ## Reflexão sobre o Processo
